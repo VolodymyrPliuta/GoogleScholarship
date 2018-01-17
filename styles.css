@@ -1,0 +1,19 @@
+/* add your CSS here */
+.fact {
+    font-style: italic;
+}
+span {
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+}
+.border{
+    max-width: 388px;
+    border: 1px solid #CECECE;
+    box-shadow: 5px 5px 8px #888888
+}
+.information{
+    border: 1px solid #CECECE;
+    padding: 1em;
+}
